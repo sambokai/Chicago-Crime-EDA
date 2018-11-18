@@ -8,6 +8,9 @@
 * "Wie effektiv sind die Ermittlungsbehörden?"
 * Vorhersage von Kriminalitätswellen, Radikalisierung der Bevölkerung oder konkreten Straften
 
+## Datenquellen
+* [Offizielle Daten der Stadverwaltung Chicago - 'Crimes 2001 to present'](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
+
 ## Autoren
 * Ian Altenau
 * Sakhr Al-Absi
