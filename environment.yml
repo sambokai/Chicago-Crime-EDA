@@ -30,6 +30,8 @@ dependencies:
   - jupyter_client=5.2.3=py37_0
   - jupyter_console=6.0.0=py37_0
   - jupyter_core=4.4.0=py37_0
+  - jupyterlab=0.35.3=py37_0
+  - jupyterlab_server=0.2.0=py37_0
   - kiwisolver=1.0.1=py37h0a44026_0
   - libcxx=4.0.1=hcfea43d_1
   - libcxxabi=4.0.1=hcfea43d_1
@@ -95,5 +97,5 @@ dependencies:
   - xz=5.2.4=h1de35cc_4
   - zeromq=4.2.5=h0a44026_1
   - zlib=1.2.11=hf3cbc9b_2
-prefix: /Users/sbokai/anaconda3/envs/chicago-crime
+prefix: /Users/sbokai/miniconda3/envs/chicago-crime
 
