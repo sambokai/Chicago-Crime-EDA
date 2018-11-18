@@ -1,5 +1,7 @@
 # Explorative Datenanalyse der Kriminalität in Chicago
 
+## Projektdetails
+
 ### Autoren
 * Ian Altenau
 * Sakhr Al-Absi
