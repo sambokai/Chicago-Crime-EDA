@@ -33,7 +33,7 @@
 
 * Lade einen Chicago-Crime Datensatz zur Analyse herunter
     * Lade die CSV Datei von der offiziellen Webseite der Stadtverwaltung Chicagos herunter. Nutze hierfür die [Datenquellen](#datenquellen)
-    * Speichere die CSV als `crimes.csv` im Ordner `data` dieses Projekts
+    * Speichere die CSV als `crimes.csv` im Ordner `data` dieses Projekts. Erstelle vorher den Ordner `data` im Stammverzeichnis, falls benötigt.
   
 ### Einrichtung der Entwicklungsumgebung
 
