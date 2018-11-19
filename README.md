@@ -42,7 +42,7 @@ Erstelle ein [Conda Environment](https://conda.io/docs/user-guide/concepts.html)
 
 ```bash
 conda env create -f environment.yml # Erstelle ein Environment mithilfe der environment.yml dieses Projektes
-conda info -e # Liste alle installierten Environments auf um zu überprüfen ob das Environment korrekt installiert wurde
+conda info -e # Liste alle installierten Environments auf um zu überprüfen ob das Environment 'chicago-crime' korrekt installiert wurde
 ```
 
 Aktiviere das zuvor installierte Environment
