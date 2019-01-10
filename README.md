@@ -4,7 +4,6 @@
 
 ### Autoren
 * Ian Altenau
-* Sakhr Al-Absi
 * Sam Bokai
 
 ### Vorläufige Liste zu untersuchender Forschungsfragen:
