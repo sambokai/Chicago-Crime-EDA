@@ -1,7 +1,23 @@
 name: chicago-crime
 channels:
+  - conda-forge
   - defaults
 dependencies:
+  - altair=2.3.0=py37_1001
+  - asn1crypto=0.24.0=py37_1003
+  - branca=0.3.1=py_0
+  - certifi=2018.11.29=py37_1000
+  - cffi=1.11.5=py37h5e8e0c9_1
+  - chardet=3.0.4=py37_1003
+  - folium=0.7.0=py_0
+  - idna=2.8=py37_1000
+  - pycparser=2.19=py_0
+  - pyopenssl=18.0.0=py37_1000
+  - pysocks=1.6.8=py37_1002
+  - requests=2.21.0=py37_1000
+  - toolz=0.9.0=py_1
+  - urllib3=1.24.1=py37_1000
+  - vincent=0.4.4=py_1
   - appnope=0.1.0=py37_0
   - attrs=18.2.0=py37h28b3542_0
   - backcall=0.1.0=py37_0
@@ -10,10 +26,10 @@ dependencies:
   - bzip2=1.0.6=h1de35cc_5
   - ca-certificates=2018.03.07=0
   - cairo=1.14.12=hc4e6be7_4
-  - certifi=2018.11.29=py37_0
   - click=7.0=py37_0
   - click-plugins=1.0.4=py37_0
   - cligj=0.5.0=py37_0
+  - cryptography=2.4.2=py37ha12b0ac_0
   - curl=7.63.0=ha441bb4_1000
   - cycler=0.10.0=py37_0
   - dbus=1.13.2=h760590f_1
